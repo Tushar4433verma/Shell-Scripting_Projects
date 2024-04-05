@@ -11,6 +11,8 @@ Steps:
 4) Find all files with size more than 20kb
 5) Compress each file
 7) Make a cron job to run everyday at given time
+
+
 ###################################################################
 #Project-2
 
