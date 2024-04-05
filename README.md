@@ -1,8 +1,8 @@
 # Shell-Scripting_Project
 
 #Project-1
-<<comment
-Archive older files or larger files
+
+#Archive older files or larger files
 
 Steps:
 1) Provide path of Directory
@@ -11,4 +11,7 @@ Steps:
 4) Find all files with size more than 20kb
 5) Compress each file
 7) Make a cron job to run everyday at given time
-comment
+###################################################################
+#Project-2
+
+It shows you the digital watch on shell/terminal
